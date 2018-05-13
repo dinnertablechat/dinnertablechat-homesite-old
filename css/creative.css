@@ -190,6 +190,8 @@ header.masthead h1 {
 
 header.masthead p {
   font-weight: 300;
+  background-color: #008cffbb;
+  padding: 3px;
 }
 
 @media (min-width: 768px) {
