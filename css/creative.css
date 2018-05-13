@@ -91,9 +91,9 @@ img::-moz-selection {
 
 #mainNav .navbar-brand {
   font-weight: 700;
-  text-transform: uppercase;
+  font-size: 1.8rem;
   color: #F05F40;
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Rochester', cursive !important;
 }
 
 #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
