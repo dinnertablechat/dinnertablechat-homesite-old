@@ -15,13 +15,9 @@
   padding: 1rem 2rem;
 }
 
-.btn-l {
-  padding: .8rem 1.7rem;
-  margin: 0 !important;
-}
-
 .btn-light {
-  color: $secondary
+  color: $secondary;
+  background-color: $white;
 }
 
 .btn-primary {
@@ -51,5 +47,18 @@
   &:active,
   &:focus {
     box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, .5) !important;
+  }
+}
+
+.btn-l {
+  padding: .8rem 1.7rem;
+  margin: 0 !important;
+  border-radius: 300px !important;
+  background-color: $primary !important;
+  &:hover,
+  &:focus,
+  &:active {
+    color: $white;
+    background-color: darken($primary, 10%) !important;
   }
 }
