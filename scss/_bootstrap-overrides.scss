@@ -21,7 +21,7 @@
 }
 
 .btn-primary {
-  background-color: $primary;
+  background-color: $appred;
   border-color: $primary;
   &:hover,
   &:focus,
@@ -54,7 +54,7 @@
   padding: .8rem 1.7rem;
   margin: 0 !important;
   border-radius: 300px !important;
-  background-color: $primary !important;
+  background-color: $appred !important;
   &:hover,
   &:focus,
   &:active {
