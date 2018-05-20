@@ -178,7 +178,12 @@
 
     gtag('config', 'UA-119131630-1');
   </script>
-
+  <script type='text/javascript'>
+    () => {
+      if (/github.io/.test(window.location.href))
+        window.location = 'https://dinnertable.chat/'
+    }
+  </script>
 
 </body>
 
