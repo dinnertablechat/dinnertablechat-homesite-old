@@ -1,3 +1,8 @@
+# MOVED
+
+### The new DTC repo is under the [github.com/NewDialog](https://github.com/newdialog) organization.
+
+
 # Old DTC website
 
 Uses template:
